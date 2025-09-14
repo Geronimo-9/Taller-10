@@ -24,6 +24,12 @@ public class Main {
 
 
 
+//Ejercicio 3, EL uso inadecuado de sobreescritura. --> ir a Clase Persona
+
+Aspirante a1 = new Aspirante("Jhon");
+
+a1.presentarse();
+a1.presentarse("helio");
 
 
 
